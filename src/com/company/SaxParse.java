@@ -67,10 +67,6 @@ public class SaxParse
                     age = information;
                 if (lastElementName.equals("grade"))
                     grade = information;
-                if (lastElementName.equals("grade"))
-                    grade = information;
-                if (lastElementName.equals("grade"))
-                    grade = information;
             }
         }
 
